@@ -1,0 +1,5 @@
+{
+  "name": "Weather Dashboard & Java API Demo",
+  "description": "A polished weather dashboard built with React and a complete Java reference implementation for consuming REST APIs.",
+  "requestFramePermissions": []
+}
