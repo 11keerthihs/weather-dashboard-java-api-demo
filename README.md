@@ -129,3 +129,4 @@ This project demonstrates how Java applications can consume REST APIs and proces
 
 Keerthi HS
 Internship Project Submission
+<img width="1206" height="630" alt="Image" src="https://github.com/user-attachments/assets/a67c0588-172a-4db6-80ad-c70e93902b4f" />
